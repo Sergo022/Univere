@@ -1,0 +1,58 @@
+#include <iostream>
+#include <graphics.h>
+using namespace std;
+int main()
+{ int gdriver = DETECT, gmode, errorcode;
+initgraph(&gdriver, &gmode, "");
+
+for (int i=1;1<600;i++)
+{
+    setcolor(14);
+    circle(300,250+i,80);
+    setcolor(0);
+    delay(10);
+   // cleardevice();
+
+     setcolor(12);
+   // rectangle(100+i, 120, 200+i, 300);
+     circle(300,250-i,80);
+    setcolor(0);
+    delay(10);
+  //  cleardevice();
+
+    setcolor(10);
+     circle(300+i,250,80);
+    setcolor(0);
+    delay(10);
+  //  cleardevice();
+
+    setcolor(5);
+     circle(300-i,250,80);
+    setcolor(0);
+    delay(10);
+   // cleardevice();
+}
+
+getch();
+closegraph();
+return 0;
+}
+
+int main()
+{ int gdriver = DETECT, gmode, errorcode;
+initgraph(&gdriver, &gmode, "");
+for (int i=1;1<600;i++)
+{
+    setcolor(14);
+    arc(50+i,250,0,180,25);
+    circle(20+i,190,20);
+    circle(85+i,190,20);
+    circle(50+i,205,80);
+    setcolor(12);
+    delay(10);
+    cleardevice();
+}
+getch();
+closegraph();
+return 0;
+}
