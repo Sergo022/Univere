@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\bin\Debug\25.2.exe.config
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\bin\Debug\25.2.exe
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\bin\Debug\25.2.pdb
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\obj\Debug\25.2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\obj\Debug\25.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\obj\Debug\_25._2.Form1.resources
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\obj\Debug\_25._2.Properties.Resources.resources
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\obj\Debug\25.2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\obj\Debug\25.2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\obj\Debug\25.2.exe
+C:\Users\User\OneDrive\Робочий стіл\SERHII\C++\2курс прога\24full\25.2\25.2\obj\Debug\25.2.pdb
